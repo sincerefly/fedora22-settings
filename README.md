@@ -6,6 +6,7 @@ Fedora 22 调教指南
 理论上说本整理及解决方案适用于Fedora不同的版本。
 
 如果你在github上看到的，欢迎访问GitBook阅读本指南
+
 地址:
 [Fedora 22 调教指南](https://www.gitbook.com/book/kissbug8720/fedora22-settings/details)
 
