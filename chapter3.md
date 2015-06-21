@@ -1,7 +1,5 @@
 # 为Firefox添加Flash
 
-*如果你不是火狐用户，这一小节可以略过*
-
 火狐浏览器没有内置Flash，所以无法观看视频或是正常访问一些使用Flash网站。
 
 1，到[https://get.adobe.com/cn/flashplayer/](https://get.adobe.com/cn/flashplayer/) 下载yum版本的flash，也可直接下载
