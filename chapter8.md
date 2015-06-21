@@ -23,15 +23,20 @@ sudo dnf install gimp
 矢量图做图软件，功能强大，用过的都说好
 
 ```bash
-sudo dnf install gimp
+sudo dnf install inkscape
 ```
 
 4，***Remarkable***
 
 Markdown编辑器，可能是Linux下最好的Markdown编辑器了，界面美观，配色漂亮，而且支持将markdown文件保存为PDF和HTML，功能强大
 
+官方网站：[http://remarkableapp.net/](http://remarkableapp.net/)
+
+你可以去下载rpm安装，或者使如下命令安装(可能不是最新版)
+
 ```bash
-sudo dnf install remarkable
+wget http://remarkableapp.net/files/remarkable-1.41.rpm
+sudo dnf install ./remarkable-1.41.rpm
 ```
 
 ---
