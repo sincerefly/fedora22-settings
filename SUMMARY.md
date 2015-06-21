@@ -9,5 +9,5 @@
 * [安装VirtualBox](chapter6.md)
 * [音频视频解码器](chapter7.md)
 * [必备软件集](chapter8.md)
-* [安装Chrome](chapter9.md)
+* [安装Chrome及插件](chapter9.md)
 
