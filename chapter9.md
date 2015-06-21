@@ -13,3 +13,5 @@ sudo dnf install google-chrome-stable_current_x86_64.rpm
 ---
 
 下面来推荐几个强大插件
+
+（）
